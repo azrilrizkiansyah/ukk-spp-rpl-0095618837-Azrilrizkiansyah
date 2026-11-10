@@ -16,7 +16,7 @@ return new class extends Migration
             $table->string('username',30)->nullable();
             $table->string('password',255)->nullable();
             $table->string('nama_petugas',255)->nullable();
-            $table->enum('level',['admin','petugas'])->nullable();
+            $table->enum('level',['admin','petugass'])->nullable();
             $table->timestamps();
         });
     }
