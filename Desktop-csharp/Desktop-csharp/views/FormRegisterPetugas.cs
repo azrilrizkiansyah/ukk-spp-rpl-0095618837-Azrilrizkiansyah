@@ -8,13 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Desktop_csharp
+namespace Desktop_csharp.views
 {
-    public partial class Form1 : Form
+    public partial class FormRegisterPetugas : Form
     {
-        public Form1()
+        public FormRegisterPetugas()
         {
             InitializeComponent();
+        }
+
+        private void txtUsername_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

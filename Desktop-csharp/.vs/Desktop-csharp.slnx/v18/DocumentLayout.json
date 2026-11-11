@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EABDBE2-A480-4922-87FB-26077C0A7671}|Desktop-csharp\\Desktop-csharp.csproj|d:\\ukk-spp-rpl-0095618837-azrilrizkiansyah\\desktop-csharp\\desktop-csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8EABDBE2-A480-4922-87FB-26077C0A7671}|Desktop-csharp\\Desktop-csharp.csproj|solutionrelative:desktop-csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8EABDBE2-A480-4922-87FB-26077C0A7671}|Desktop-csharp\\Desktop-csharp.csproj|d:\\ukk-spp-rpl-0095618837-azrilrizkiansyah\\desktop-csharp\\desktop-csharp\\views\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EABDBE2-A480-4922-87FB-26077C0A7671}|Desktop-csharp\\Desktop-csharp.csproj|solutionrelative:desktop-csharp\\views\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EABDBE2-A480-4922-87FB-26077C0A7671}|Desktop-csharp\\Desktop-csharp.csproj|d:\\ukk-spp-rpl-0095618837-azrilrizkiansyah\\desktop-csharp\\desktop-csharp\\views\\formregisterpetugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EABDBE2-A480-4922-87FB-26077C0A7671}|Desktop-csharp\\Desktop-csharp.csproj|solutionrelative:desktop-csharp\\views\\formregisterpetugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EABDBE2-A480-4922-87FB-26077C0A7671}|Desktop-csharp\\Desktop-csharp.csproj|D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\desktop-csharp\\views\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EABDBE2-A480-4922-87FB-26077C0A7671}|Desktop-csharp\\Desktop-csharp.csproj|solutionrelative:desktop-csharp\\views\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EABDBE2-A480-4922-87FB-26077C0A7671}|Desktop-csharp\\Desktop-csharp.csproj|d:\\ukk-spp-rpl-0095618837-azrilrizkiansyah\\desktop-csharp\\desktop-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EABDBE2-A480-4922-87FB-26077C0A7671}|Desktop-csharp\\Desktop-csharp.csproj|solutionrelative:desktop-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EABDBE2-A480-4922-87FB-26077C0A7671}|Desktop-csharp\\Desktop-csharp.csproj|d:\\ukk-spp-rpl-0095618837-azrilrizkiansyah\\desktop-csharp\\desktop-csharp\\views\\formregisterpetugas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EABDBE2-A480-4922-87FB-26077C0A7671}|Desktop-csharp\\Desktop-csharp.csproj|solutionrelative:desktop-csharp\\views\\formregisterpetugas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EABDBE2-A480-4922-87FB-26077C0A7671}|Desktop-csharp\\Desktop-csharp.csproj|D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\desktop-csharp\\config\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EABDBE2-A480-4922-87FB-26077C0A7671}|Desktop-csharp\\Desktop-csharp.csproj|solutionrelative:desktop-csharp\\config\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EABDBE2-A480-4922-87FB-26077C0A7671}|Desktop-csharp\\Desktop-csharp.csproj|d:\\ukk-spp-rpl-0095618837-azrilrizkiansyah\\desktop-csharp\\desktop-csharp\\models\\sessionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EABDBE2-A480-4922-87FB-26077C0A7671}|Desktop-csharp\\Desktop-csharp.csproj|solutionrelative:desktop-csharp\\models\\sessionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EABDBE2-A480-4922-87FB-26077C0A7671}|Desktop-csharp\\Desktop-csharp.csproj|D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\desktop-csharp\\views\\formregisterpetugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EABDBE2-A480-4922-87FB-26077C0A7671}|Desktop-csharp\\Desktop-csharp.csproj|solutionrelative:desktop-csharp\\views\\formregisterpetugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EABDBE2-A480-4922-87FB-26077C0A7671}|Desktop-csharp\\Desktop-csharp.csproj|D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\desktop-csharp\\views\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EABDBE2-A480-4922-87FB-26077C0A7671}|Desktop-csharp\\Desktop-csharp.csproj|solutionrelative:desktop-csharp\\views\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,18 +46,120 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\Desktop-csharp\\Form1.cs",
-              "RelativeDocumentMoniker": "Desktop-csharp\\Form1.cs",
-              "ToolTip": "D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\Desktop-csharp\\Form1.cs [Design]",
-              "RelativeToolTip": "Desktop-csharp\\Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "FormRegisterPetugas.cs",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\Desktop-csharp\\views\\FormRegisterPetugas.cs",
+              "RelativeDocumentMoniker": "Desktop-csharp\\views\\FormRegisterPetugas.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\Desktop-csharp\\views\\FormRegisterPetugas.cs",
+              "RelativeToolTip": "Desktop-csharp\\views\\FormRegisterPetugas.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T01:39:11.051Z",
+              "WhenOpened": "2026-11-11T05:42:03.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "formLogin.cs",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\Desktop-csharp\\views\\formLogin.cs",
+              "RelativeDocumentMoniker": "Desktop-csharp\\views\\formLogin.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\Desktop-csharp\\views\\formLogin.cs*",
+              "RelativeToolTip": "Desktop-csharp\\views\\formLogin.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T04:40:26.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormRegisterPetugas.Designer.cs",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\Desktop-csharp\\views\\FormRegisterPetugas.Designer.cs",
+              "RelativeDocumentMoniker": "Desktop-csharp\\views\\FormRegisterPetugas.Designer.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\Desktop-csharp\\views\\FormRegisterPetugas.Designer.cs",
+              "RelativeToolTip": "Desktop-csharp\\views\\FormRegisterPetugas.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T05:49:59.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\Desktop-csharp\\Program.cs",
+              "RelativeDocumentMoniker": "Desktop-csharp\\Program.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\Desktop-csharp\\Program.cs",
+              "RelativeToolTip": "Desktop-csharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T05:21:59.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormRegisterPetugas.cs [Design]",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\Desktop-csharp\\views\\FormRegisterPetugas.cs",
+              "RelativeDocumentMoniker": "Desktop-csharp\\views\\FormRegisterPetugas.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\Desktop-csharp\\views\\FormRegisterPetugas.cs [Design]",
+              "RelativeToolTip": "Desktop-csharp\\views\\FormRegisterPetugas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:26:06.238Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "koneksi.cs",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\Desktop-csharp\\config\\koneksi.cs",
+              "RelativeDocumentMoniker": "Desktop-csharp\\config\\koneksi.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\Desktop-csharp\\config\\koneksi.cs",
+              "RelativeToolTip": "Desktop-csharp\\config\\koneksi.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:24:06.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "formLogin.cs [Design]",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\Desktop-csharp\\views\\formLogin.cs",
+              "RelativeDocumentMoniker": "Desktop-csharp\\views\\formLogin.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\Desktop-csharp\\views\\formLogin.cs [Design]*",
+              "RelativeToolTip": "Desktop-csharp\\views\\formLogin.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:21:11.448Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sessionUser.cs",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\Desktop-csharp\\models\\sessionUser.cs",
+              "RelativeDocumentMoniker": "Desktop-csharp\\models\\sessionUser.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\Desktop-csharp\\models\\sessionUser.cs",
+              "RelativeToolTip": "Desktop-csharp\\models\\sessionUser.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:25:17.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\Desktop-csharp\\views\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "Desktop-csharp\\views\\FormDashboard.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-0095618837-Azrilrizkiansyah\\Desktop-csharp\\Desktop-csharp\\views\\FormDashboard.cs [Design]",
+              "RelativeToolTip": "Desktop-csharp\\views\\FormDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:26:43.848Z",
               "EditorCaption": " [Design]"
             }
           ]
